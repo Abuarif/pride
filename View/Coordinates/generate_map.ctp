@@ -1,0 +1,1 @@
+This is generate map page
