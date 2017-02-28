@@ -1,0 +1,15 @@
+{
+	"name": "PRIDE - aDVERT Management System",
+	"description": "System to manage advertiser and space booking",
+
+	"author": "Suhaimi Maidin",
+	"authorEmail": "suhaimi.maidin@prasarana.com.my",
+	"authorUrl": "http://www.myrapid.com.my",
+
+	"dependencies": {
+		"plugins": [
+			"acl",
+			"extensions"
+		]
+	}
+}
